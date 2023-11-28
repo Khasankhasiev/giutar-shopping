@@ -4,8 +4,8 @@
   padding: var(--spacing-small);
   background-color: #e8e8e8;
   width: 100%;
-  /* position: fixed;
-  top: 0; */
+  position: fixed;
+  top: 0;
 }
 
 .header-counter {
